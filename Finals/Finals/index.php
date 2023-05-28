@@ -12,7 +12,7 @@
     <link href="./css/login.css" rel="stylesheet" >
     <link rel = "icon" href = "./css/Images/sfs-logo.png" type = "image/x-icon">
 
-    <title>Student Login</title>
+    <title>Students Login</title>
   </head>
   <body>
         <div class="container-fluid"  id="login-student">
